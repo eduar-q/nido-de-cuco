@@ -1,11 +1,3 @@
-# Python
 __pycache__/
-*.py[cod]
-*$py.class
-*.so
-.venv/
-env/
-
-# Logs o registros generados en runtime
-*.log
 events.json
+.vscode/
